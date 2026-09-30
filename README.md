@@ -1,0 +1,2 @@
+# test-curse
+my course
